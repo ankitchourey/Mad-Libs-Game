@@ -1,2 +1,2 @@
 # Mad-Libs-Game
-Just a simple Madlibs game. 
+Just a simple Madlibs game  😊 
